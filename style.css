@@ -1,0 +1,12 @@
+.fbtn {
+    background-color: rgba(101, 16, 102, 0.438);
+}
+
+.span {
+    color: purple;
+}
+*{
+    color: white !important;
+    background-color: black;
+
+}
